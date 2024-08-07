@@ -1,0 +1,128 @@
+{
+  "events_categories": [
+    {
+      "id": "london",
+      "title": "Events in London",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id impedit dignissimos accusamus cum, numquam similique aperiam optio voluptatem quam eos consequuntur recusandae molestias a quas quos fugit totam quo temporibus.",
+      "imageSrc": "/One.jpg"
+    },
+    {
+      "id": "san-francisco",
+      "title": "Events in San Francisco",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id impedit dignissimos accusamus cum, numquam similique aperiam optio voluptatem quam eos consequuntur recusandae molestias a quas quos fugit totam quo temporibus.",
+      "imageSrc": "/One.jpg"
+    },
+    {
+      "id": "barcelona",
+      "title": "Events in Barcelona",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id impedit dignissimos accusamus cum, numquam similique aperiam optio voluptatem quam eos consequuntur recusandae molestias a quas quos fugit totam quo temporibus.",
+      "imageSrc": "/One.jpg"
+    }
+  ],
+  "all_events": [
+    {
+      "id": "london-crypto",
+      "title": "London Crypto Week",
+      "city": "london",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id impedit dignissimos accusamus cum, numquam similique aperiam optio voluptatem quam eos consequuntur recusandae molestias a quas quos fugit totam quo temporibus.",
+      "image": "/One.jpg",
+      "date": "12-01-2023",
+      "emails_registered": [
+        "larbishak2003@gmail.com",
+        "ishak.larbi@inttic.dz",
+        "ishaklarbi.76@gmail.com",
+        "mouad@hotmail.com"
+      ]
+    },
+    {
+      "id": "reactify-london",
+      "title": "Reactify London",
+      "city": "london",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id impedit dignissimos accusamus cum, numquam similique aperiam optio voluptatem quam eos consequuntur recusandae molestias a quas quos fugit totam quo temporibus.",
+      "image": "/One.jpg",
+      "date": "12-01-2023",
+      "emails_registered": []
+    },
+    {
+      "id": "sf-blockchain-week",
+      "title": "Sf Blockchain Week",
+      "city": "san-francisco",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id impedit dignissimos accusamus cum, numquam similique aperiam optio voluptatem quam eos consequuntur recusandae molestias a quas quos fugit totam quo temporibus.",
+      "image": "/One.jpg",
+      "date": "12-01-2023",
+      "emails_registered": ["ishak.larbi@inttic.dz", "larbishak2003@gmail.com"]
+    },
+    {
+      "id": "sf-web3-week",
+      "title": "Sf WEB 3.0 Week",
+      "city": "san-francisco",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id impedit dignissimos accusamus cum, numquam similique aperiam optio voluptatem quam eos consequuntur recusandae molestias a quas quos fugit totam quo temporibus.",
+      "image": "/One.jpg",
+      "date": "12-01-2023",
+      "emails_registered": []
+    },
+    {
+      "id": "sf-js-conf",
+      "title": "Sf JS Conf",
+      "city": "san-francisco",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id impedit dignissimos accusamus cum, numquam similique aperiam optio voluptatem quam eos consequuntur recusandae molestias a quas quos fugit totam quo temporibus.",
+      "image": "/One.jpg",
+      "date": "12-01-2023",
+      "emails_registered": []
+    },
+    {
+      "id": "sf-solidity-baby-steps",
+      "title": "Sf Solidity Baby Steps",
+      "city": "san-francisco",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id impedit dignissimos accusamus cum, numquam similique aperiam optio voluptatem quam eos consequuntur recusandae molestias a quas quos fugit totam quo temporibus.",
+      "image": "/One.jpg",
+      "date": "12-01-2023",
+      "emails_registered": []
+    },
+    {
+      "id": "sf-nextjs-conf",
+      "title": "Next Js Conf",
+      "city": "san-francisco",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id impedit dignissimos accusamus cum, numquam similique aperiam optio voluptatem quam eos consequuntur recusandae molestias a quas quos fugit totam quo temporibus.",
+      "image": "/One.jpg",
+      "date": "12-01-2023",
+      "emails_registered": []
+    },
+    {
+      "id": "the-halloween-vue-party",
+      "title": "The Halloween Vue Party",
+      "city": "barcelona",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id impedit dignissimos accusamus cum, numquam similique aperiam optio voluptatem quam eos consequuntur recusandae molestias a quas quos fugit totam quo temporibus.",
+      "image": "/One.jpg",
+      "date": "12-01-2023",
+      "emails_registered": []
+    },
+    {
+      "id": "php-house",
+      "title": "The PHP House ",
+      "city": "barcelona",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id impedit dignissimos accusamus cum, numquam similique aperiam optio voluptatem quam eos consequuntur recusandae molestias a quas quos fugit totam quo temporibus.",
+      "image": "/One.jpg",
+      "date": "12-01-2023",
+      "emails_registered": ["larbishak2003@gmail.com"]
+    },
+    {
+      "id": "laravel-meet",
+      "title": "The Laravel Meeting",
+      "city": "barcelona",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id impedit dignissimos accusamus cum, numquam similique aperiam optio voluptatem quam eos consequuntur recusandae molestias a quas quos fugit totam quo temporibus.",
+      "image": "/One.jpg",
+      "date": "12-01-2023",
+      "emails_registered": ["mochas@gmail.com"]
+    },
+    {
+      "id": "technology-is-it-food",
+      "title": "Technology Is It Food?",
+      "city": "barcelona",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id impedit dignissimos accusamus cum, numquam similique aperiam optio voluptatem quam eos consequuntur recusandae molestias a quas quos fugit totam quo temporibus.",
+      "image": "/One.jpg",
+      "date": "12-01-2023",
+      "emails_registered": []
+    }
+  ]
+}

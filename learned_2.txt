@@ -1,0 +1,23 @@
+any node support hosting can run nextJs app
+
+there is some optimizations when going to production : image, automatic font, script optimization
+Use Incremental Static Regeneration to reduce the number of requests to your backend
+
+swc is rust-based compiler or transpiler it is like babel but blazingly faster than it
+
+nextjs has its own authentication module next/auth but has support fot other providers as: auth0, firebase, supabase
+nextjs add a tag under the hood no need to add legacyBehavior property on Link tag
+
+getServerSideProps, getStaticProps runs only on the server so you can do your secure work here like accessing files, api keys ...
+
+getStaticProps runs at build time but in development it will run at each request
+
+when setting fallback: true, paths provided will be Generated at build time , the page you requested ,next js will build a fallback version when the request comes 
+but when requesting next time you will be served with the generated fallback version page (in production version not development)
+so if you are fetching an external api posts/{context.id} and you have provided just 1,2 and 3 but posts/4 is requested then it will be built at request time
+fallback: "blocking" is like true in mechanism but the only difference is there is no loading state 
+
+SSG:
+the build time is proportional to the number of the pages generated
+built pages can contain stale data until next rebuild
+
